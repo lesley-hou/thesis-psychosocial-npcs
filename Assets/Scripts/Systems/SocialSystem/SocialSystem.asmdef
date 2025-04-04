@@ -1,0 +1,17 @@
+{
+    "name": "SocialSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c749d22a4b4c04dba89801efd975e7ae",
+        "GUID:b8eb71516186847cda42d7b4934a26b3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

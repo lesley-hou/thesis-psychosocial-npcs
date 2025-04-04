@@ -1,0 +1,18 @@
+{
+    "name": "StimulusResponseSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d35a44c88d544477aa63a08fec711ac0",
+        "GUID:c749d22a4b4c04dba89801efd975e7ae",
+        "GUID:3501ea859ae2648f99b5c99f59e0b735"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

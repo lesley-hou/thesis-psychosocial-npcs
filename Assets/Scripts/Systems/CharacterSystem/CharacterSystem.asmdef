@@ -1,0 +1,16 @@
+{
+    "name": "CharacterSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b8eb71516186847cda42d7b4934a26b3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
